@@ -1,0 +1,68 @@
+.container-fluid {
+    padding: 80px 120px;
+}
+
+.logo-small {
+    color: #f4511e;
+    font-size: 50px;
+}
+
+.carousel-inner img { 
+    height: 700px;
+    margin: auto;
+}
+
+.carousel-caption {
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.carousel-caption h3 {
+    color: #fff !important;
+}
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+}
+
+#reportcard {
+    color: #fff !important;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("../img/reportcard.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax .row .col-md {
+    margin-top: 100px;
+}
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    padding: 50px;
+}
+
+#googleMap {
+    height:400px;
+    width:100%;
+}

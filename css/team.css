@@ -1,0 +1,11 @@
+/* want to change this to a team photo */
+.jumbotron {
+    background: url('../img/team/banner.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 250px 25px;
+}
+
+.img-thumbnail {
+    width: 100%;
+}
