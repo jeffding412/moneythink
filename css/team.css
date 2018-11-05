@@ -6,6 +6,17 @@
     padding: 250px 25px;
 }
 
-/* .img-thumbnail {
-    width: 100%;
-} */
+.img-thumbnail {
+    width: 100%; 
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    padding: 50px;
+}
+
+#googleMap {
+    height:400px;
+    width:100%;
+}
