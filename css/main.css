@@ -19,7 +19,6 @@
 
 .carousel-caption h3 {
     color: #fff !important;
-    font-size: 48px;
     text-shadow:
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
@@ -59,7 +58,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    font-size: 24px;
     text-shadow:
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
