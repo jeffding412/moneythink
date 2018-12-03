@@ -4,6 +4,12 @@
     background-size: cover;
     color: #fff;
     padding: 250px 25px;
+
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 .img-thumbnail {
