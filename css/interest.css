@@ -1,0 +1,28 @@
+/* want to change this to a team photo */
+.jumbotron {
+    background: url('../img/team/moneythink.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 250px 25px;
+
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.img-thumbnail {
+    width: 100%; 
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    padding: 50px;
+}
+
+#googleMap {
+    height:400px;
+    width:100%;
+}
