@@ -1,4 +1,7 @@
-/* want to change this to a team photo */
+.body {
+  margin-left: 3rem;
+}
+
 .jumbotron {
     background: url('../img/board/MoneyThink2020Board.jpg') no-repeat center center;
     background-size: cover;
