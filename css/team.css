@@ -14,6 +14,7 @@
 
 .img-thumbnail {
     width: 100%;
+    overflow: hidden;
 }
 
 footer {
