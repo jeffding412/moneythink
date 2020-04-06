@@ -13,7 +13,10 @@
 }
 
 .img-thumbnail {
-    width: 100%;
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-size: cover;
 }
 
 footer {
